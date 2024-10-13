@@ -17,7 +17,7 @@ Outside of work, I am passionate about sports and adventure, always seeking new 
 ---
 
 ## Projects
-### 1. [Modern data plateform]
+### 1. Modern data plateform
 - **Description**: Showcase project where i use news technologies and keep me up to date
 - **Repository**: https://github.com/saclem/modern_data_plateform
   
