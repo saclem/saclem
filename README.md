@@ -40,8 +40,8 @@ Outside of work, I am passionate about sports and adventure, always seeking new 
 
 ## Contact Me
 
-📫 Reach me at: sacha.clemente.co@gmail.com 
-🌐 https://www.linkedin.com/in/sacha-clementefr/
+- **📫 Reach me at: sacha.clemente.co@gmail.com**
+- **🌐 https://www.linkedin.com/in/sacha-clementefr/**
 
 
 ---
