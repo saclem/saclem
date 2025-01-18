@@ -1,10 +1,6 @@
 # Sacha 
 
-**Data engineer | Athlete**
-
-Welcome to my GitHub Portfolio! 🚀
-
----
+**Data engineer 
 
 ## About Me
 
