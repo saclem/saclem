@@ -8,7 +8,7 @@
 
 Outside of work, I am passionate about sports and adventure, always seeking new challenges. This thirst for exploration and innovation is mirrored in my professional approach, where I constantly stay updated on technological advancements to find the best solutions for my clients.
 
-🎓 I have a Master in computer science, mathematics & statistics, and I am currently working as a data engineer specializing in cloud technologies, ETL pipelines, and scalable solutions.
+🎓 I have a Master in computer science, mathematics & statistics, and I am currently working as a data engineer specializing in data engineering.
 
 ---
 
